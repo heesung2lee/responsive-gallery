@@ -5,7 +5,6 @@ body {
 img {
   width: 100%;
 }
-
 .photo-grid-container {
   column-count: 5;
   column-width: 300px;
